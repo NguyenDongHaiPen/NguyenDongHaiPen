@@ -1,0 +1,17 @@
+# Virtual environment
+.venv/
+
+# Template files (not needed in profile repo)
+PROMPT.md
+profile-README-template.md
+requirements-local.txt
+deploy-README.md
+avi-ascii-static.svg
+
+# Source photo
+Nguyendonghai.jpeg
+source-prepped.png
+source-photo.jpg
+
+# macOS
+.DS_Store
